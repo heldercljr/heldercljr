@@ -4,7 +4,7 @@ I'm Helder Chaves, Software Engineer, Computer Science student and lover of tech
 
 # 🚀 Expertise
 
-### [SPLab](https://splab.computacao.ufcg.edu.br/) - Software Practices Laboratory - February 2023 - January 2024 (12 months)
+### [SPLab](https://splab.computacao.ufcg.edu.br/) - February 2023 - January 2024 (12 months)
 Acting as a Python developer and researcher at SPLab (at UFCG), on development of PDF data extraction and processing tools, studying image processing techniques with computer vision.
 
 ### [Smartiks](https://www.smartiks.com/) - July 2021 - December 2021 (6 months)
