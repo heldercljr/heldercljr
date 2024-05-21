@@ -7,16 +7,14 @@ I'm Helder Chaves, Software Engineer, Computer Science student and lover of tech
 ### [SPLab](https://splab.computacao.ufcg.edu.br/) - Software Practices Laboratory - February 2023 - January 2024 (12 months)
 - Acting as a Python developer and researcher at SPLab, a research laboratory at UFCG.
 - Development of PDF data extraction and processing tools.
-- Use of Jira, Gitlab and Discord as management, versioning and communication tools.
 - Study and application of image processing techniques with computer vision.
-- Opportunity to always show and discuss ideas and improve professionally.
 
 ### [Smartiks](https://www.smartiks.com/) - July 2021 - December 2021 (6 months)
 - Acting as a back-end JavaScript/TypeScript developer (Node.js/Express/TypeORM).
 - Company that works with players in the electrical sector such as CHESF and ENGIE.
 - Use of TDD in tests, through the Jest framework and code versioning with GitLab and GitHub.
-- Use of SQLite and Oracle relational databases, and also uses related to Docker containers.
-- Application of agile development methodologies (scrum with Azure) in the life cycle.
+
+### More professional information is available on my full resume [here](https://docs.google.com/document/d/1ErIbJLHPtCa7y2GjUZ-FLprgL_z0s_7nziXDfzEJ5c0/edit?usp=sharing).
 
 # 💻 Technical Skills
 
@@ -50,7 +48,7 @@ I'm Helder Chaves, Software Engineer, Computer Science student and lover of tech
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
 
-# 🌐 Socials
+# 🌐 Social medias
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heldercljr/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/heldercljr)
