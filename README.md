@@ -5,14 +5,10 @@ I'm Helder Chaves, Software Engineer, Computer Science student and lover of tech
 # 🚀 Expertise
 
 ### [SPLab](https://splab.computacao.ufcg.edu.br/) - Software Practices Laboratory - February 2023 - January 2024 (12 months)
-- Acting as a Python developer and researcher at SPLab, a research laboratory at UFCG.
-- Development of PDF data extraction and processing tools.
-- Study and application of image processing techniques with computer vision.
+Acting as a Python developer and researcher at SPLab (at UFCG), on development of PDF data extraction and processing tools, studying image processing techniques with computer vision.
 
 ### [Smartiks](https://www.smartiks.com/) - July 2021 - December 2021 (6 months)
-- Acting as a back-end JavaScript/TypeScript developer (Node.js/Express/TypeORM).
-- Company that works with players in the electrical sector such as CHESF and ENGIE.
-- Use of TDD in tests, through the Jest framework and code versioning with GitLab and GitHub.
+Acting as a back-end JavaScript/TypeScript developer (Node.js/Express/TypeORM) in a company partner of electrical-related companies such as CHESF and ENGIE.
 
 ### More professional information is available on my full resume [here](https://docs.google.com/document/d/1ErIbJLHPtCa7y2GjUZ-FLprgL_z0s_7nziXDfzEJ5c0/edit?usp=sharing).
 
@@ -21,22 +17,29 @@ I'm Helder Chaves, Software Engineer, Computer Science student and lover of tech
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Opencv-8b1df2?style=for-the-badge&logo=Opencv&logoColor=white)
+
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Haskell-4B275F?style=for-the-badge&logo=haskell)
+
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ![](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
