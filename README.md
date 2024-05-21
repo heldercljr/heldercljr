@@ -44,11 +44,11 @@ Acting as a back-end JavaScript/TypeScript developer (Node.js/Express/TypeORM) i
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
 
-# 🌐 Social medias and contact
+# 🌐 Social medias
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heldercljr/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/heldercljr)
-[![](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/heldercljr)
+[![](https://img.shields.io/badge/X-333333?style=plastic&logo=x&logoColor=white)](https://x.com/heldercljr)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583993334913)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/heldercljr)
 [![](https://img.shields.io/badge/Discord-39457E?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/heldercljr)
