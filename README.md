@@ -13,8 +13,6 @@ Acting as a Python developer and researcher at SPLab (at UFCG), on development o
 ### [Smartiks](https://www.smartiks.com/) - July 2021 - December 2021 (6 months)
 Acting as a back-end JavaScript/TypeScript developer (Node.js/Express/TypeORM) in a company partner of electrical-related companies such as CHESF and ENGIE.
 
-### More professional information is available on my full resume [here](https://docs.google.com/document/d/1ErIbJLHPtCa7y2GjUZ-FLprgL_z0s_7nziXDfzEJ5c0/edit?usp=sharing).
-
 # 💻 Technical Skills
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
