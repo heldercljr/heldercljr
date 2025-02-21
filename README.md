@@ -4,6 +4,9 @@ I'm Helder Chaves, Software Engineer, Computer Science student and lover of tech
 
 # 🚀 Expertise
 
+### [AIAEP](https://aiaep.com.br) - June 2024 - August 2024 (3 months)
+Acting as a TypeScript full stack freelancer developer at AIAEP, a non-profit organization, developing an accountability system.
+
 ### [SPLab](https://splab.computacao.ufcg.edu.br/) - February 2023 - January 2024 (12 months)
 Acting as a Python developer and researcher at SPLab (at UFCG), on development of PDF data extraction and processing tools, studying image processing techniques with computer vision.
 
