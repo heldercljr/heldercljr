@@ -1,8 +1,14 @@
 # 🙋🏻‍♂️ Hey there
 
-I'm Helder Chaves, Software Engineer, Computer Science student and lover of technology! I'm currently ending the third year of the course at [Universidade Federal de Campina Grande](https://www.computacao.ufcg.edu.br/). With over 7 years of experience developing software and studying the CS fundamentals, I've had the opportunity to engage on some exciting projects and explore different technologies.
+I'm Helder Chaves, Software Engineer, Computer Science student and lover of technology! I'm currently in the forth year of the course at [Universidade Federal de Campina Grande](https://www.computacao.ufcg.edu.br/). With over 7 years of experience developing software and studying the CS fundamentals, I've had the opportunity to engage on some exciting projects and explore different technologies.
 
 # 🚀 Expertise
+
+### [VIRTUS](https://www.virtus.ufcg.edu.br/) - June 2025 - Now
+Currently acting as a student researcher and developer, with focus on workflows automation.
+
+### [Media4ALL](https://media4all.com.br/) - October 2024 - June 2025 (9 months)
+Acting as a full stack Java + TypeScript developer at Media4ALL, a company known by its online document signature solutions, also focused on developing customized software solutions for phone carriers.
 
 ### [AIAEP](https://aiaep.com.br) - June 2024 - August 2024 (3 months)
 Acting as a TypeScript full stack freelancer developer at AIAEP, a non-profit organization, developing an accountability system.
@@ -55,8 +61,6 @@ Acting as a back-end JavaScript/TypeScript developer (Node.js/Express/TypeORM) i
 # 🌐 Social medias
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heldercljr/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/heldercljr)
-[![](https://img.shields.io/badge/X-333333?style=plastic&logo=x&logoColor=white)](https://x.com/heldercljr)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583993334913)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/heldercljr)
 [![](https://img.shields.io/badge/Discord-39457E?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/heldercljr)
