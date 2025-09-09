@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Hey there!
 
-I'm Helder Chaves, Software Engineer, Computer Science student and lover of technology! I'm currently in the forth year of the course at [Universidade Federal de Campina Grande](https://www.computacao.ufcg.edu.br/). With over 7 years of experience developing software and studying the CS fundamentals, I've had the opportunity to engage on some exciting projects and explore different technologies.
+I'm Helder Chaves, Software Engineer, Computer Science student and lover of technology! I'm currently in the third year of the course at [Universidade Federal de Campina Grande](https://www.computacao.ufcg.edu.br/). With over 7 years of experience developing software and studying the CS fundamentals, I've had the opportunity to engage on some exciting projects and explore different technologies.
 
 # 🚀 Expertise
 
